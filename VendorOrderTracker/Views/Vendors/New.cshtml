@@ -1,0 +1,37 @@
+@{
+  Layout = "_Layout";
+}
+
+<h1>Add Vendor</h1>
+
+<form action="/vendors" method="post">
+  <label for="vendorName">Vendor Name</label>
+  <input id="vendorName" name="vendorName" type="text">
+
+  <label for="shipToName">Ship-To Name</label>
+  <input id="shipToName" name="shipToName" type="text">
+
+  <label for="shipAddress">Address</label>
+  <input id="shipAddress" name="shipAddress" type="text">
+
+  <label for="shipState">State</label>
+  <input id="shipState" name="shipState" type="text">
+
+  <label for="shipCity">City</label>
+  <input id="shipCity" name="shipCity" type="text">
+
+  <label for="shipZip">Zipcode</label>
+  <input id="shipZip" name="shipZip" type="text">
+
+  <label for="phoneNum">Phone Number</label>
+  <input id="phoneNum" name="phoneNum" type="text">
+
+  <label for="email">Email Address</label>
+  <input id="email" name="email" type="text">
+
+  <button type="submit">Add</button>
+</form>
+
+<p><a href="/vendors">Vendors</a></p>
+<p><a href="/orders">Orders</a></p>
+<p><a href="/">Home</a></p>
