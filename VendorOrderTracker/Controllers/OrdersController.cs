@@ -30,9 +30,9 @@ namespace VendorOrderTracker.Controllers
 
     [HttpGet("/orders/{id}")]
     public ActionResult Show(int id)
-      {
-        Order selectedOrder = Order.FindById(id);
-        return View(selectedOrder);
-      }
+    {
+      Order selectedOrder = Order.FindById(id);
+      return View(selectedOrder);
+    }
   }
 }

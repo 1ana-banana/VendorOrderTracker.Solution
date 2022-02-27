@@ -1,0 +1,7 @@
+C:\Users\Ana\Desktop\VendorOrderTracker.Solution\VendorOrderTracker\obj\Debug\netcoreapp2.1\VendorOrderTracker.csproj.AssemblyReference.cache
+C:\Users\Ana\Desktop\VendorOrderTracker.Solution\VendorOrderTracker\obj\Debug\netcoreapp2.1\VendorOrderTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana\Desktop\VendorOrderTracker.Solution\VendorOrderTracker\obj\Debug\netcoreapp2.1\VendorOrderTracker.AssemblyInfoInputs.cache
+C:\Users\Ana\Desktop\VendorOrderTracker.Solution\VendorOrderTracker\obj\Debug\netcoreapp2.1\VendorOrderTracker.AssemblyInfo.cs
+C:\Users\Ana\Desktop\VendorOrderTracker.Solution\VendorOrderTracker\obj\Debug\netcoreapp2.1\VendorOrderTracker.csproj.CoreCompileInputs.cache
+C:\Users\Ana\Desktop\VendorOrderTracker.Solution\VendorOrderTracker\obj\Debug\netcoreapp2.1\VendorOrderTracker.RazorAssemblyInfo.cache
+C:\Users\Ana\Desktop\VendorOrderTracker.Solution\VendorOrderTracker\obj\Debug\netcoreapp2.1\VendorOrderTracker.RazorAssemblyInfo.cs
